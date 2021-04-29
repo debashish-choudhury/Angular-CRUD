@@ -1,0 +1,60 @@
+{
+  "products": [
+    {
+      "id": "2",
+      "name": "Refrigerator",
+      "description": "Whirlpool",
+      "price": "100000",
+      "quantity": 10
+    },
+    {
+      "id": "3",
+      "name": "Pen",
+      "description": "Stationary",
+      "price": 300,
+      "quantity": 10
+    },
+    {
+      "id": "5",
+      "name": "Laptop",
+      "description": "Dell Inspiron",
+      "price": "30000",
+      "quantity": "10"
+    },
+    {
+      "id": "6",
+      "name": "Mobile",
+      "description": "Samsung Galaxy",
+      "price": "45000",
+      "quantity": "5"
+    },
+    {
+      "id": "7",
+      "name": "TV",
+      "description": "LG",
+      "price": "50000",
+      "quantity": "5"
+    },
+    {
+      "id": "34",
+      "name": "Books",
+      "description": "Harry Potter",
+      "price": "300",
+      "quantity": "2"
+    },
+    {
+      "id": "43",
+      "name": "Color Pencils",
+      "description": "coloured pencils",
+      "price": "60",
+      "quantity": "45"
+    },
+    {
+      "id": "625",
+      "name": "Samsung",
+      "description": "Mobile",
+      "price": "35000",
+      "quantity": "1"
+    }
+  ]
+}
